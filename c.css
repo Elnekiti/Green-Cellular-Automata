@@ -1,0 +1,16 @@
+#key { 
+    background-color: green;
+    color: green;
+	border-radius: 99px;
+    padding: 0px; 
+}
+#one { 
+    background-color: grey;
+    color: grey;
+}
+#rcorners1 {
+    border-radius: 30px;
+    background: white;
+    padding: 1px; 
+      
+}
