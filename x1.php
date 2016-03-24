@@ -27,7 +27,7 @@ Math Expression :<input type="txt" name="pat" min="1" max="60"  ><br><BR><BR>
 </html>
 		
 													<?PHP 
-											
+											// Made available under (Apache License 2.0) License
 												//error_reporting(0);
 												
 											$lrt=360;  $xin=1;
